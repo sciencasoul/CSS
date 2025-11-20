@@ -1,4 +1,4 @@
- <style>
+
         :root {
             --primary: #4a7b6f;
             --primary-light: #5d8c7e;
@@ -1549,4 +1549,4 @@
                 width: 100%;
             }
         }
-    </style>
+   
